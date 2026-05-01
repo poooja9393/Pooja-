@@ -12,7 +12,7 @@ Included Features
 Run it:
 Bash
 pip install python-telegram-bot requests
-python bot.py
+python3 bot.py
 Important
 Replace:
 Python
